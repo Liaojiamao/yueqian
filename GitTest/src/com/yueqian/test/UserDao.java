@@ -4,4 +4,6 @@ public interface UserDao {
 
 	//添加用户
 	void addUser();
+	
+	void updateUser();
 }
