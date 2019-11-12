@@ -10,4 +10,6 @@ public interface UserDao {
 	void deleteUser();
 	//李四写的查询用户
 	void selectUser();
+	//张三写的
+	void addStudent();
 }
