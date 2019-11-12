@@ -12,4 +12,9 @@ public interface UserDao {
 	void selectUser();
 	//张三写的
 	void addStudent();
+	
+	void aa();
+	
+	void bb();
+	
 }
