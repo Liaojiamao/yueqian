@@ -17,4 +17,7 @@ public interface UserDao {
 	
 	void bb();
 	
+	
+	void cc();
+
 }
