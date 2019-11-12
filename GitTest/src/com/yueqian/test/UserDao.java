@@ -8,4 +8,6 @@ public interface UserDao {
 	void updateUser();
 	//张三用户添加的方法
 	void deleteUser();
+	//李四写的查询用户
+	void selectUser();
 }
