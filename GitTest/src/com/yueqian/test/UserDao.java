@@ -6,6 +6,6 @@ public interface UserDao {
 	void addUser();
 	
 	void updateUser();
-	//另一个用户添加的方法
+	//张三用户添加的方法
 	void deleteUser();
 }
